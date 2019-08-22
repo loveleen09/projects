@@ -3,9 +3,9 @@
 
 function print2 (){
 
-echo 'thjkl';
+echo 'loveleen';
 echo '</br>';
-echo 'asas';
+echo 'kaur';
 }
 
 print2() ;
